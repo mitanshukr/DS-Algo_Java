@@ -9,24 +9,24 @@ _Suggestions are welcome!_
 ## Arrays
 
 1) [Basic Array Functions](StaticArray/BasicArray.java)  (Insertion, getElement, Search, Sort, etc.)
-2) [Find duplicate Elements in the array](https://example.com/) 
-3) [Rotational Array](https://example.com/) 
-4) [Find max. and min. Element in the array](https://example.com) 
+2) [Find duplicate Elements in the array](StaticArray/duplicate.java) 
+3) [Rotational Array](StaticArray/rotationalArray.java) 
+4) [Find max. and min. Element in the array](StaticArray/min_max_value.java) 
 ## Linked Lists 
 - **Singular Linked List**
-1) [Creation, Insertion, and Traversal](https://example.com/) 
-2) [Searching an Element](https://example.com/) 
-3) [Updating a node](https://example.com/) 
-4) [Deletion of an Element](https://example.com/) 
+1) [Creation, Insertion, and Traversal](LinkedList/LinkedList.java) 
+2) [Searching an Element](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/LinkedList.java#L98) 
+3) [Updating a node](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/LinkedList.java#L127) 
+4) [Deletion of an Element](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/LinkedList.java#L52) 
 5) Reversal of a linked list
 6) Sorting a linked list and other Implimentations
 7) Merging two sorted Linked List
 8) Polynomial Arithmetic with Linked List 
 - **Doubly Linked List**
-1) [Creation, Insertion, and Traversal](https://example.com/) 
-2) [Deletion of an Element](https://example.com/) 
+1) [Creation, Insertion, and Traversal](LinkedList/DoublyLinkedList.java) 
+2) [Deletion of an Element](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/DoublyLinkedList.java#L64) 
 3) Reversal of a Double Linked List
-4) [Traversal Challenge](https://example.com/)  (Two steps forward & One step backward)
+4) [Traversal Challenge](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/DoublyLinkedList.java#L108)  (Two steps forward & One step backward)
 - **Circular Linked List**
 1) [Creation, Insertion, and Traversal](https://example.com/) 
 2) [Deletion of an Element](https://example.com/) 
@@ -35,9 +35,9 @@ _Suggestions are welcome!_
 
 ## Stacks and Queues
 - **Stacks**
-1) [Array Implimentation of Stack](https://example.com/) 
-2) [Linked List Implimentation of Stack](https://example.com/) 
-3) [Dynamic Array Implimentation of Stack](https://example.com/) 
+1) [Array Implimentation of Stack](Stacks/ArrayStack.java) 
+2) [Linked List Implimentation of Stack](Stacks/LinkedListStack.java) 
+3) [Dynamic Array Implimentation of Stack](Stacks/DynamicStack.java) 
 4) Stack Implimentation using Queue
 5) Applications of Stack
 
