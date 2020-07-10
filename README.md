@@ -8,7 +8,7 @@ _Suggestions are welcome!_
 
 ## Arrays
 
-1) [Basic Array Functions](https://example.com/)  (Insertion, getElement, Search, Sort, etc.)
+1) [Basic Array Functions](StaticArray/BasicArray.java)  (Insertion, getElement, Search, Sort, etc.)
 2) [Find duplicate Elements in the array](https://example.com/) 
 3) [Rotational Array](https://example.com/) 
 4) [Find max. and min. Element in the array](https://example.com) 
