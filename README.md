@@ -15,18 +15,18 @@ _Suggestions are welcome!_
 ## Linked Lists 
 - **Singular Linked List**
 1) [Creation, Insertion, and Traversal](LinkedList/LinkedList.java) 
-2) [Searching an Element](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/LinkedList.java#L98) 
-3) [Updating a node](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/LinkedList.java#L127) 
-4) [Deletion of an Element](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/LinkedList.java#L52) 
+2) [Searching an Element](LinkedList/LinkedList.java#L98) 
+3) [Updating a node](LinkedList/LinkedList.java#L127) 
+4) [Deletion of an Element](LinkedList/LinkedList.java#L52) 
 5) Reversal of a linked list
 6) Sorting a linked list and other Implimentations
 7) Merging two sorted Linked List
 8) Polynomial Arithmetic with Linked List 
 - **Doubly Linked List**
 1) [Creation, Insertion, and Traversal](LinkedList/DoublyLinkedList.java) 
-2) [Deletion of an Element](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/DoublyLinkedList.java#L64) 
+2) [Deletion of an Element](LinkedList/DoublyLinkedList.java#L64) 
 3) Reversal of a Double Linked List
-4) [Traversal Challenge](https://github.com/mitanshukr/DS-Algo_Java/blob/bddd17ed9e70827b0fd8a9d48e1cd9cab3c3609c/LinkedList/DoublyLinkedList.java#L108)  (Two steps forward & One step backward)
+4) [Traversal Challenge](LinkedList/DoublyLinkedList.java#L108)  (Two steps forward & One step backward)
 - **Circular Linked List**
 1) [Creation, Insertion, and Traversal](https://example.com/) 
 2) [Deletion of an Element](https://example.com/) 
